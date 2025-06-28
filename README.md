@@ -30,7 +30,9 @@ AtliQ Hardware faced an unforeseen loss after opening a store in America, relyin
  5. DAX studio (for optimizing the report)
 
 ### Data Model    
+![Image](https://github.com/user-attachments/assets/668f12a7-6bbf-4bf5-baea-2d4a14492045)
 
+### Landing Page View
 
     
 
