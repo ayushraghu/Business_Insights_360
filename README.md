@@ -39,6 +39,10 @@ AtliQ Hardware faced an unforeseen loss after opening a store in America, relyin
 ![Image](https://github.com/user-attachments/assets/bbcfa028-1490-4b38-a6e9-aa35ae9b8995)
 
 ### Sales View 
+![Image](https://github.com/user-attachments/assets/24cc5792-b98e-464e-898c-538d26909c42)
+
+### Marketing View 
+
 
 
 
